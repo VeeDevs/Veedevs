@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I’m Vhuhwavho 👋
 
-<!--
-**VeeDevs/Veedevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Software Engineer** focused on building **production-ready backend systems, full-stack web applications, and AI-driven solutions**.
 
-Here are some ideas to get you started:
+## What I Build
+- Backend systems with Python, Django, Flask, and SQL
+- Full-stack applications with React and TypeScript
+- Data-driven and AI-enabled systems
+- Containerized deployments with Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Flagship Projects
+- **Smart-Pay POS** – Business-ready retail system
+- **Whisper of Hope Report** – Mental health platform
+- **TaskMaster** – Full-stack task management system
+- **Linkshort** – URL shortener microservice
+- **E-Poll Platform** – Secure online polling system
+
+## Engineering Focus
+- Clean architecture
+- Secure authentication
+- Scalable backend design
+- Real-world business logic
+
+📌 GitHub: https://github.com/VeeDevs  
+📌 LinkedIn: https://www.linkedin.com/in/vhuhwavho-mulaudzi
